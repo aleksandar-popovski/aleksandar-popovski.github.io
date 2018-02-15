@@ -3,7 +3,7 @@
     "name": "ASI Newletter Feb. 2018",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 81,
+    "uniqCompNum": 84,
     "versionPublish": "4.6.3",
     "theme": {
       "name": "mobirise4",
@@ -26,7 +26,7 @@
         "display7Size": "1.2",
         "display4Font": "Open Sans Condensed",
         "display4Size": 1,
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       },
