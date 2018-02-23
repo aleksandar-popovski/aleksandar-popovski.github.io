@@ -240,8 +240,8 @@
             },
             "p:first-child:first-letter": {
               "color": "#fff",
-              "font-family": "\"Open Sans Condensed\"",
-              "font-size": "61px",
+              "font-family": "\"\"",
+              "font-size": "64px",
               "line-height": "59px",
               "font-weight": "500",
               "initial-letter": "1",
@@ -255,7 +255,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#2a3d4c\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span class=\"firstcharacter\"><b>E</b></span>ach year, ASI members, supporters, and friends gather at the ASI International Convention to encourage one another and exchange <b>ideas</b> vital to their lay-driven <b>ministry</b> goals. The annual convention is an energetic, <b>inspiring</b> event where <b>networks</b> are formed and plans are made that one individual or institution could never accomplish alone. Those who attend the convention return to their local churches inspired and <b>equipped</b> to start lay <b>outreach</b> efforts in their own <b>workplaces</b> and communities. Best of all, eternal <b>friendships</b> are formed.</p></div>\n    </div></div></section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#2a3d4c\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span class=\"firstcharacter\"><b>I</b></span>t’s almost that time of the year! Registration for ASI’s 2018 convention, Business Unusual, opens March 1!</p><p>\n                Save the dates for August 1-4, and join us as we seek to serve our incredible God in an unusual way. Expand your network, exchange ideas, and embrace the call to hasten the second coming of Christ. Get involved in unusual service, unusual growth, and unusual business. Early Bird Registration ends May 15. On-site rates go into effect on July 25. Register March 1!\n\n<br></p></div>\n    </div></div></section>",
           "_cid": "qIJicCmrPT",
           "_anchor": "content1-19",
           "_PHPplaceholders": [],
